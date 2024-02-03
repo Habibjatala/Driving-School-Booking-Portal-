@@ -1,0 +1,6 @@
+@School_BookingPortal_HostAddress = http://localhost:5232
+
+GET {{School_BookingPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
